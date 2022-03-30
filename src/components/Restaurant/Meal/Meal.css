@@ -1,0 +1,13 @@
+
+.meal{
+    border: 1px solid lightgray;
+    padding10px:;
+    border-radius:15px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    -ms-border-radius:15px;
+    -o-border-radius:15px;
+}
+.meal img{
+    width:200px;
+}
